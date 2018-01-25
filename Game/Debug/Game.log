@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\gaddmaster\desktop\c++\animated assignment\game\main.cpp(36): warning C4005: '_WIN32_WINNT': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+  Game.vcxproj -> C:\Users\GaddMaster\Desktop\C++\Animated Assignment\Debug\MyGame.exe
+  Game.vcxproj -> C:\Users\GaddMaster\Desktop\C++\Animated Assignment\Debug\MyGame.pdb (Full PDB)
